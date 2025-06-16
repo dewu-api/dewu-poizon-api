@@ -1,4 +1,4 @@
-# dewu-poizon-api Продается в среднем/сдаётся в аренду ｜ For sale / For rent
+# poizon api & dewu api Продается в среднем/сдаётся в аренду ｜ For sale / For rent
 得物实时接口/得物数据接口/得物API/商品价格/dewu api/球鞋搬砖/电商api/poizon api/dewu api/dewu scraper/dewu crawler/poizon scraper/poizon crawler .
 
 Poizon api/Dewu data interface/Dewu real-time data interface/Dewu API/ Commodity size price /Dewu api
