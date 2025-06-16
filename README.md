@@ -18,25 +18,25 @@ https://github.com/user-attachments/assets/b65e8fb5-b184-413e-84bd-0723e2083f90
 
 [Uri Instructions]
 
-/get_data
-Search product information by Product ID.
+/Product_get_data_realtime 
+  Get product realtime info(prices/size/img/detail...) by Product ID.
 
-/spu_get_data
-Search product information by Spu ID.
+/spu_get_price_realtime 
+  Get product realtime info(prices/size/img/detail...) by Spu ID.
 
-/get_data_old
-Search product information by Product ID. (Do not modify the data returned by the official API)
+/search_keyword_api
+  Search product info by keyword.
 
-/remain_requests
-Query the remaining token query times.
+/Get_product_detail
+  Get product detail.
 
-/url_to_spuId
-Query the spu id of a product by using the url.
+/url_to_spuId 
+  Query the spu info by url.
 
-/get_brand_id
-Get brand id.
+/get_brand_spuId 
+  Get product list by brand name.
 
-/get_brand_spuId
-Get product spu ids in batches by brand id.
+/remain_requests 
+  Query the remaining token query times.
 
 
